@@ -1,4 +1,2 @@
-# programiz.riy-
-This is my first Repository
-<br>
-Author-Riya Garjola
+Linked list (all codes)
+->Riya Garjola
